@@ -19,8 +19,8 @@ Hi there! I'm **Adam**, a Frontend Developer passionate about React, JavaScript,
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/adam-konber)
+- [Portfolio](https://adam-konber.vercel.app)
 
 ---
 
