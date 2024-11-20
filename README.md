@@ -4,8 +4,8 @@ Hi there! I'm **Adam**, a Frontend Developer passionate about React, JavaScript,
 🌟 I love crafting user-friendly web applications and diving into the world of tech!
 
 ### 🔧 Tech Stack
-- **Languages:** JavaScript, HTML, CSS  
-- **Libraries/Frameworks:** React, Express, Knex, PostgreSQL  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Libraries/Frameworks:** React, Next.js, Prisma,Express, Knex, PostgreSQL  
 - **Testing Tools:** Cypress  
 - **Other Interests:** Accessibility, R&D, and automation  
 
