@@ -1,31 +1,23 @@
-# Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Adam**, a Frontend Developer passionate about React, JavaScript, and building Fullstack apps.  
-🌟 I love crafting user-friendly web applications and diving into the world of tech!
-
-### 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Libraries/Frameworks:** React, Next.js, Prisma,Express, Knex, PostgreSQL  
-- **Testing Tools:** Cypress  
-- **Other Interests:** Accessibility, R&D, and automation  
+# Hi there! I'm Adam 👋  
+I'm a **FullStack Developer (Frontend Focused)** passionate about **React, JavaScript, and building Fullstack applications**.  
+🌟 I love crafting user-friendly web applications, optimizing performance, and exploring new technologies!  
 
 ---
 
-### 📊 GitHub Stats
-
-![Sterling47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sterling47&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sterling47&layout=compact&theme=radical)
+## 🔧 Tech Stack  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Libraries/Frameworks:** React, Next.js, Express, Prisma, Knex, PostgreSQL, Framer Motion  
+- **Testing Tools:** Cypress, Jest  
+- **Other Interests:** Accessibility, R&D, automation, efficient development processes, and improving user experiences  
 
 ---
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/adam-konber)
-- [Portfolio](https://adam-konber.vercel.app)
+- [Portfolio](https://adam-konber.dev)
 
 ---
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sterling47&style=flat-square&color=blue)
-
 
 ### 🎉 Fun Facts
 - 🌲 I enjoy hiking in Colorado.  
@@ -34,4 +26,11 @@ Hi there! I'm **Adam**, a Frontend Developer passionate about React, JavaScript,
 
 ---
 
+### 📊 GitHub Stats
+
+![Sterling47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sterling47&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sterling47&layout=compact&theme=radical)
+
 Thanks for visiting my GitHub profile! ✨
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Sterling47&style=flat-square&color=blue)
